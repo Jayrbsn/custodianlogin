@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+}
+
+.main-page{
+  width: 80%;
+  margin: auto;
+}
+
+@media (max-width: 700px) {
+  .btn{
+    width: 40%;
+  }
+}
